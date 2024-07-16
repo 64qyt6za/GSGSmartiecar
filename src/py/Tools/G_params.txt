@@ -1,0 +1,6 @@
+G_h_min = 60
+G_h_max = 78
+G_s_min = 62
+G_s_max = 255
+G_v_min = 96
+G_v_max = 217
