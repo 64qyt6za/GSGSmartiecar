@@ -43,11 +43,11 @@
 
 ![Foto 01 10 23, 13 22 02](https://github.com/Nezar187/GSG_SmartiecarV2/assets/131591590/60bbc2ea-8552-432e-a204-dabbc420be3d)
 
-Welcome to the official GitHub repository for Team Smart Riders from Germany, participating in the WRO World Finals 2023. This repository contains all the code, documentation, and resources for our project, SmartiecarV2. We have used scoring criteria from the ruleblock as headings in our documentation to make it easy to navigate our repository.
+Welcome to the official GitHub repository for Team Smart Riders from Germany, participating in the WRO European Finals 2024. This repository contains all the code, documentation, and resources for our project, SmartiecarV2. We have used scoring criteria from the ruleblock as headings in our documentation to make it easy to navigate our repository.
 
 <img src="https://github.com/Nezar187/GSG_SmartiecarV2/assets/131591590/7b0c5513-870f-475c-9993-cfca6aa5659f" width="75%">
 
-For the wold final we decided to redesign our future engineers car.
+For the European final we decided to redesign our future engineers car.
 Now our car consists of an arduino which controls the sensors and the motors and a raspbarry pi which does all the image prossesing in the obstacle race.
 
 
@@ -56,7 +56,7 @@ Now our car consists of an arduino which controls the sensors and the motors and
 
 ### Design Process
 
-For the World Final, we ran a throurogh analysis of our German Final car version to identify, what worked well and what did not works so well.
+For the European Final, we ran a throurogh analysis of our German Final car version to identify, what worked well and what did not works so well.
 From that, we compiled a list what to keep and what we want to improve..
 
 Results of analysis:
