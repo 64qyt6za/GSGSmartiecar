@@ -1,6 +1,6 @@
 <a name="top"></a>
 
-# WRO World Finals 2023 by Team Smart Riders 
+# WRO European Finals 2024 by Team Smart Riders 
 
 ![logo](https://github.com/Nezar187/GSG_SmartiecarV2/assets/131591590/ee130cae-55c6-4d7b-ba02-26129456f831)
 
